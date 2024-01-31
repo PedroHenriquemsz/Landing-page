@@ -2,6 +2,9 @@
 
 Este projeto foi realizado com Angular version 17.1.1. para fins de estudo e entendimento das novas funcionalidades do framework, como a utilização de SSR, Standalone components e chamadas HTTP. O projeto foi baseado na aula https://www.youtube.com/live/O26fDEnAukY?si=WdfStw_Vil23zCh5.
 
+![image](https://github.com/PedroHenriquemsz/Landing-page/assets/76978119/14fd83bd-2f00-40c8-a448-b9393e57aa42)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
