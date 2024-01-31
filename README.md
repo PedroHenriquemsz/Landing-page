@@ -1,6 +1,6 @@
 # LandingPage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+Este projeto foi realizado com Angular version 17.1.1. para fins de estudo e entendimento das novas funcionalidades do framework, como a utilização de SSR, Standalone components e chamadas HTTP. O projeto foi baseado na aula https://www.youtube.com/live/O26fDEnAukY?si=WdfStw_Vil23zCh5.
 
 ## Development server
 
